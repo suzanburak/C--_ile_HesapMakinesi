@@ -1,0 +1,10 @@
+C:\Users\90535\source\repos\muratders5 hesapmkns\muratders5 hesapmkns\bin\Debug\muratders5 hesapmkns.exe.config
+C:\Users\90535\source\repos\muratders5 hesapmkns\muratders5 hesapmkns\bin\Debug\muratders5 hesapmkns.exe
+C:\Users\90535\source\repos\muratders5 hesapmkns\muratders5 hesapmkns\bin\Debug\muratders5 hesapmkns.pdb
+C:\Users\90535\source\repos\muratders5 hesapmkns\muratders5 hesapmkns\obj\Debug\muratders5 hesapmkns.csproj.AssemblyReference.cache
+C:\Users\90535\source\repos\muratders5 hesapmkns\muratders5 hesapmkns\obj\Debug\muratders5_hesapmkns.Form1.resources
+C:\Users\90535\source\repos\muratders5 hesapmkns\muratders5 hesapmkns\obj\Debug\muratders5_hesapmkns.Properties.Resources.resources
+C:\Users\90535\source\repos\muratders5 hesapmkns\muratders5 hesapmkns\obj\Debug\muratders5 hesapmkns.csproj.GenerateResource.cache
+C:\Users\90535\source\repos\muratders5 hesapmkns\muratders5 hesapmkns\obj\Debug\muratders5 hesapmkns.csproj.CoreCompileInputs.cache
+C:\Users\90535\source\repos\muratders5 hesapmkns\muratders5 hesapmkns\obj\Debug\muratders5 hesapmkns.exe
+C:\Users\90535\source\repos\muratders5 hesapmkns\muratders5 hesapmkns\obj\Debug\muratders5 hesapmkns.pdb
